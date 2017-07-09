@@ -1,0 +1,22 @@
+{
+  "visible_filenames": [
+    "Hiker.cpp",
+    "Hiker.hpp",
+    "HikerTests.cpp",
+    "Makefile",
+    "cyber-dojo.sh"
+  ],
+
+  "filename_extension": ".cpp",
+
+  "display_name": "C++ (g++), Cgreen",
+
+  "tab_size": 4,
+
+  "image_name": "cyberdojofoundation/gpp_cgreen",
+
+  "progress_regexs" : [
+    "((\\d)+ tests)",
+    "(\\d)+ failures[s]?, (\\d)+ exception[s]?"
+  ]
+}
