@@ -13,10 +13,6 @@
 
   "tab_size": 4,
 
-  "image_name": "cyberdojofoundation/gpp_cgreen",
+  "image_name": "cyberdojofoundation/gpp_cgreen"
 
-  "progress_regexs" : [
-    "((\\d)+ tests)",
-    "(\\d)+ failures[s]?, (\\d)+ exception[s]?"
-  ]
 }
