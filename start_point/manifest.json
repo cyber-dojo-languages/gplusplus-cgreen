@@ -11,7 +11,7 @@
 
   "image_name": "cyberdojofoundation/gpp_cgreen",
 
-  "filename_extension": ".cpp",
+  "filename_extension": [ ".cpp", ".hpp" ],
 
   "tab_size": 4,
 
