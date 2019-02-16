@@ -13,7 +13,5 @@
 
   "filename_extension": [ ".cpp", ".hpp" ],
 
-  "tab_size": 4,
-
-  "runner_choice": "stateless"
+  "tab_size": 4
 }
