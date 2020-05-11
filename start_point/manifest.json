@@ -1,6 +1,6 @@
 {
+  "image_name": "cyberdojofoundation/gpp_cgreen",
   "display_name": "C++ (g++), Cgreen",
-
   "visible_filenames": [
     "Hiker.cpp",
     "Hiker.hpp",
@@ -8,10 +8,7 @@
     "Makefile",
     "cyber-dojo.sh"
   ],
-
-  "image_name": "cyberdojofoundation/gpp_cgreen",
-
   "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
-
+  "max_seconds": 10,
   "tab_size": 4
 }
